@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+Dibuat oleh bahri, FIC 4
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
